@@ -22,9 +22,6 @@
 # --- Object / binary files ---
 *.obj
 *.o
-*.exe
-*.dll
-*.lib
 *.pdb
 *.ilk
 *.exp
