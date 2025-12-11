@@ -1,0 +1,70 @@
+# --- Build folders ---
+/Debug/
+/Release/
+/x64/
+/x86/
+/ipch/
+/out/
+/build/
+
+# --- Visual Studio user-specific ---
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+
+# --- Visual Studio cache ---
+.vs/
+*.VC.db
+*.VC.VC.opendb
+
+# --- Object / binary files ---
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# --- CMake (ako slučajno koristiš) ---
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# --- Logs and misc ---
+*.log
+*.tlog
+*.cache
+*.tmp
+
+# --- Shader cache / compiled shaders ---
+*.spv
+*.glsl.cache
+*.shadercache
+
+# --- Image loading library cache ---
+*.png.cache
+*.jpg.cache
+
+# --- stb_image intermediates ---
+*.stbi*
+
+# --- FreeType build output ---
+objs/
+*.pc
+
+# --- JetBrains / CLion (ako nekad koristiš) ---
+.idea/
+
+# --- Windows special ---
+Thumbs.db
+Desktop.ini
+
+# --- Misc ---
+*.db
+*.zip
+*.7z
